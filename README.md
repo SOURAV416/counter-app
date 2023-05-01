@@ -1,1 +1,1 @@
-# counter-app
+# Entry-counter-app

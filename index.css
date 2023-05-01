@@ -1,0 +1,60 @@
+body {
+    /* background-image: url("station.jpg"); */
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3cpath d='M849.38 28.92 a12.63 12.63 0 1 0 25.26 0 a12.63 12.63 0 1 0 -25.26 0z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M175.87 428.47L187.51 428.47L187.51 431.93L175.87 431.93z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M211.98 334.34a33.87 33.87 0 1 0 67.58 4.72z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M804.93 294.71L844.59 294.71L844.59 334.37L804.93 334.37z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M755.25 48.15 a36.73 36.73 0 1 0 73.46 0 a36.73 36.73 0 1 0 -73.46 0z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M551.75 41.38a27.02 27.02 0 1 0 53.38-8.46z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M849.97 529.64a26.69 26.69 0 1 0 22.92 48.2z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M885.45 299.58 a13.92 13.92 0 1 0 27.84 0 a13.92 13.92 0 1 0 -27.84 0z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M521.9 259.42 a28.5 28.5 0 1 0 57 0 a28.5 28.5 0 1 0 -57 0z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1415.98 514.15L1426.24 514.15L1426.24 536.14L1415.98 536.14z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M1389.56 514.18 a38.99 38.99 0 1 0 77.98 0 a38.99 38.99 0 1 0 -77.98 0z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M219.68 99.81a50.9 50.9 0 1 0 52.15 87.42z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M886.96 107.74 a22.82 22.82 0 1 0 45.64 0 a22.82 22.82 0 1 0 -45.64 0z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1306.71 484.2a48.54 48.54 0 1 0 73.51 63.41z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M1272.48 459.49 a13.99 13.99 0 1 0 27.98 0 a13.99 13.99 0 1 0 -27.98 0z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M1196.68 229.33a15.93 15.93 0 1 0 11.4-29.75z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M528.73 308.05 a28.2 28.2 0 1 0 56.4 0 a28.2 28.2 0 1 0 -56.4 0z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1049.16 494.7a4.17 4.17 0 1 0-6.91-4.67z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M1271.23 520.59L1271.41 520.59L1271.41 520.77L1271.23 520.77z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M907.53 171.83a3.35 3.35 0 1 0-4.04-5.35z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M670.71 245.94L675.24 245.94L675.24 266.64L670.71 266.64z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1408.17 146.96L1415.55 146.96L1415.55 154.34L1408.17 154.34z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M1339.85 64.26 a42.05 42.05 0 1 0 84.1 0 a42.05 42.05 0 1 0 -84.1 0z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M103.24 18.92a53.94 53.94 0 1 0 30.16 103.57z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M926.38 496.18 a13.11 13.11 0 1 0 26.22 0 a13.11 13.11 0 1 0 -26.22 0z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M461.07 330.6L511.54 330.6L511.54 330.92L461.07 330.92z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M135.89 470.36 a20.29 20.29 0 1 0 40.58 0 a20.29 20.29 0 1 0 -40.58 0z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M443.65 485.24L459.87 485.24L459.87 501.46L443.65 501.46z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M975.43 419.67L1000.47 419.67L1000.47 444.71L975.43 444.71z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M948.26 459.41L998.71 459.41L998.71 509.86L948.26 509.86z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1081.51 318.6 a15.67 15.67 0 1 0 31.34 0 a15.67 15.67 0 1 0 -31.34 0z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M379.53 102.18L393.2 102.18L393.2 115.85L379.53 115.85z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M806.74 69.31L823.09 69.31L823.09 82.32L806.74 82.32z' fill='%23e73635'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn:hover {     
+    background-color:hsl(242, 69%, 71%);    
+}
+
+#save-btn:hover {     
+    background-color:hsl(148, 97%, 39%);    
+}
+
+#increment-btn {
+    background: hsl(242, 57%, 36%);
+}
+
+#save-btn {
+    background: hsl(148, 62%, 29%);
+}
+
+#save-el {
+    font-weight: bold;
+}
+
